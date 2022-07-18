@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/perezguedesmaikel/cero/static/css/main.073c9b0a.css",
+    "main.js": "/perezguedesmaikel/cero/static/js/main.367d125a.js",
+    "static/js/787.509b05f3.chunk.js": "/perezguedesmaikel/cero/static/js/787.509b05f3.chunk.js",
+    "static/media/logo.svg": "/perezguedesmaikel/cero/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/perezguedesmaikel/cero/index.html",
+    "main.073c9b0a.css.map": "/perezguedesmaikel/cero/static/css/main.073c9b0a.css.map",
+    "main.367d125a.js.map": "/perezguedesmaikel/cero/static/js/main.367d125a.js.map",
+    "787.509b05f3.chunk.js.map": "/perezguedesmaikel/cero/static/js/787.509b05f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.367d125a.js"
+  ]
+}
